@@ -255,10 +255,11 @@ satellite.on("mouseover", function(d) {
                 + "<br/><b>Period</b> "  + d.period + " minutes"
                 + "<br/><b>Int'l Code:</b> "  + d.intCode
                 + "<br/><b>NORAD ID:</b> "  + d.noradId
-                + "<br/><b>" + (function(){return d.Retired === "Operational" ? "Status:" :
+                /*+ "<br/><b>" + (function(){return d.Retired === "Operational" ? "Status:" :
                                                   d.Retired === "Undergoing testing" ? "Status:" :
                                                   d.Retired === "Unhealthy" ? "Status:" :
                                                                 "Retired:";}()) + "</b> "  + d.Retired
+                */
                 )  
                 .style("left", (d3.event.pageX + 15) + "px")     
                 .style("top", (d3.event.pageY - 28) + "px");    

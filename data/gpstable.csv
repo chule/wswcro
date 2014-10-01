@@ -1,0 +1,80 @@
+name,launch,years,carrierRocket,launchSite,Block,№,SVN,PRN,Slot,Retired,link
+OPS 5111,22 February 1978,7,Atlas E/F SGS-1,VAFB SLC-3E,I,1[1],1,4,,17 July 1985,http://en.wikipedia.org/wiki/OPS_5111
+OPS 5112,13 May 1978,10,Atlas E/F SGS-1,VAFB SLC-3E,I,2[2],2,7,,February 1988,http://en.wikipedia.org/wiki/OPS_5112
+OPS 5113,7 October 1978,14,Atlas E/F SGS-1,VAFB SLC-3E,I,3[3],3,6,,18 May 1992,http://en.wikipedia.org/wiki/OPS_5113
+OPS 5114,11 December 1978,12,Atlas E/F SGS-1,VAFB SLC-3E,I,4[4],4,8,,May 1990,http://en.wikipedia.org/wiki/OPS_5114
+OPS 5117,9 February 1980,4,Atlas E/F SGS-1,VAFB SLC-3E,I,5[5],5,5,,11 May 1984,http://en.wikipedia.org/wiki/OPS_5117
+OPS 5118,26 April 1980,11,Atlas E/F SGS-1,VAFB SLC-3E,I,6[6],6,9,,6 March 1991,http://en.wikipedia.org/wiki/OPS_5118
+"N/A
+(Navstar 7)",19 December 1981,0,Atlas E/F SGS-1,VAFB SLC-3E,I,7,7,,,N/A,http://en.wikipedia.org/wiki/Navstar_7
+OPS 9794,14 July 1983,10,Atlas E/F SGS-2,VAFB SLC-3W,I,8[7],8,11,,4 May 1993,http://en.wikipedia.org/wiki/OPS_9794
+USA-1,13 June 1984,10,Atlas E/F SGS-2,VAFB SLC-3W,I,9[8],9,13,,20 June 1994,http://en.wikipedia.org/wiki/USA-1_(satellite)
+USA-5,8 September 1984,12,Atlas E/F SGS-2,VAFB SLC-3W,I,10[9],10,12,,26 March 1996,http://en.wikipedia.org/wiki/USA-5
+USA-10,9 October 1985,9,Atlas E/F SGS-2,VAFB SLC-3W,I,11[10],11,3,,14 April 1994,http://en.wikipedia.org/wiki/USA-10
+"N/A
+(Block II prototype)",,,,,II,0,12,,,N/A,
+USA-35,14 February 1989,11,Delta II 6925-9.5,CCAFS LC-17A[11],II,1[12],14,,,26 March 2000,http://en.wikipedia.org/wiki/USA-35
+USA-38,10 June 1989,14,Delta II 6925-9.5,CCAFS LC-17A[11],II,2[13],13,,B3,13 May 2004,http://en.wikipedia.org/wiki/USA-38
+USA-42,18 August 1989,11,Delta II 6925-9.5,CCAFS LC-17A[11],II,3[14],16,,,13 October 2000,http://en.wikipedia.org/wiki/USA-42
+USA-47,21 October 1989,12,Delta II 6925-9.5,CCAFS LC-17A[11],II,4[15],19,,A5,11 September 2001,http://en.wikipedia.org/wiki/USA-47
+USA-49,11 December 1989,16,Delta II 6925-9.5,CCAFS LC-17B[11],II,5[16],17,,D3,23 February 2005,http://en.wikipedia.org/wiki/USA-49
+USA-50,24 January 1990,10,Delta II 6925-9.5,CCAFS LC-17A[11],II,6[17],18,,,18 August 2000,http://en.wikipedia.org/wiki/USA-50
+USA-54,26 March 1990,6,Delta II 6925-9.5,CCAFS LC-17A[11],II,7[18],20,,,13 December 1996,http://en.wikipedia.org/wiki/USA-54
+USA-63,2 August 1990,13,Delta II 6925-9.5,CCAFS LC-17A[11],II,8[19],21,,E2,27 January 2003,http://en.wikipedia.org/wiki/USA-63
+USA-64,1 October 1990,17,Delta II 6925-9.5,CCAFS LC-17A[11],II,9[20],15,,D5,14 March 2007,http://en.wikipedia.org/wiki/USA-64
+USA-66,26 November 1990,24,Delta II 7925-9.5,CCAFS LC-17A,IIA,1[21],23,32,E5,Operational,http://en.wikipedia.org/wiki/USA-66
+USA-71,4 July 1991,20,Delta II 7925-9.5,CCAFS LC-17A,IIA,2[23],24,24,D1,4 November 2011,http://en.wikipedia.org/wiki/USA-71
+USA-79,23 February 1992,17,Delta II 7925-9.5,CCAFS LC-17A,IIA,3[25],25,25,A2,18 December 2009,http://en.wikipedia.org/wiki/USA-79
+USA-80,10 April 1992,5,Delta II 7925-9.5,CCAFS LC-17B,IIA,4[27],28,28,C2,15 August 1997,http://en.wikipedia.org/wiki/USA-80
+USA-83,7 July 1992,22,Delta II 7925-9.5,CCAFS LC-17B,IIA,5[28],26,26,F5,Operational,http://en.wikipedia.org/wiki/USA-83
+USA-84,9 September 1992,20,Delta II 7925-9.5,CCAFS LC-17A,IIA,6[29],27,,A6,6 October 2012,http://en.wikipedia.org/wiki/USA-84
+USA-85,22 November 1992,16,Delta II 7925-9.5,CCAFS LC-17A,IIA,7[30],32,"31
+01
+30
+NA",F4,Unhealthy,http://en.wikipedia.org/wiki/USA-85
+USA-87,18 December 1992,15,Delta II 7925-9.5,CCAFS LC-17B,IIA,8[32],29,29,F5,23 October 2007,http://en.wikipedia.org/wiki/USA-87
+USA-88,3 February 1993,10,Delta II 7925-9.5,CCAFS LC-17A,IIA,9[33],22,22,B1,6 August 2003,http://en.wikipedia.org/wiki/USA-88
+USA-90,30 March 1993,12,Delta II 7925-9.5,CCAFS LC-17A,IIA,10[34],31,31,C3,24 October 2005,http://en.wikipedia.org/wiki/USA-90
+USA-91,13 May 1993,14,Delta II 7925-9.5,CCAFS LC-17A,IIA,11[35],37,7,C4,20 December 2007,http://en.wikipedia.org/wiki/USA-91
+USA-92,26 June 1993,21,Delta II 7925-9.5,CCAFS LC-17A,IIA,12[36],39,9,A5,19 May 2014,http://en.wikipedia.org/wiki/USA-92
+USA-94,30 August 1993,20,Delta II 7925-9.5,CCAFS LC-17B,IIA,13[37],35,30,B5,1 May 2013,http://en.wikipedia.org/wiki/USA-94
+USA-96,26 October 1993,21,Delta II 7925-9.5,CCAFS LC-17B,IIA,14[38],34,4,D4,Operational,http://en.wikipedia.org/wiki/USA-96
+USA-100,10 March 1994,20,Delta II 7925-9.5,CCAFS LC-17A,IIA,15[39],36,6,C6,Reserve,http://en.wikipedia.org/wiki/USA-100
+USA-117,28 March 1996,18,Delta II 7925-9.5,CCAFS LC-17B,IIA,16[41],33,3,C5,02 August 2014,http://en.wikipedia.org/wiki/USA-117
+USA-126,16 July 1996,18,Delta II 7925-9.5,CCAFS LC-17A,IIA,17[42],40,10,E6,Operational,http://en.wikipedia.org/wiki/USA-126
+USA-128,12 September 1996,15,Delta II 7925-9.5,CCAFS LC-17A,IIA,18[43],30,30,B2,20 July 2011,http://en.wikipedia.org/wiki/USA-128
+"N/A
+(GPS IIR-1)",17 January 1997,0,Delta II 7925-9.5,CCAFS LC-17A,IIR,1,42,12,,N/A,http://en.wikipedia.org/wiki/GPS_IIR-1
+USA-132,23 July 1997,17,Delta II 7925-9.5[44],CCAFS LC-17A,IIR,2,43,13,F3,Operational,http://en.wikipedia.org/wiki/USA-132
+USA-135,6 November 1997,17,Delta II 7925-9.5,CCAFS LC-17A,IIA,19[45],38,8,A3,Operational,http://en.wikipedia.org/wiki/USA-135
+USA-145,7 October 1999,15,Delta II 7925-9.5[46],CCAFS SLC-17A,IIR,3,46,11,D5,Operational,http://en.wikipedia.org/wiki/USA-145
+USA-150,11 May 2000,14,Delta II 7925-9.5[47],CCAFS SLC-17A,IIR,4,51,20,E1,Operational,http://en.wikipedia.org/wiki/USA-150
+USA-151,16 July 2000,14,Delta II 7925-9.5[48],CCAFS SLC-17A,IIR,5,44,28,B3,Operational,http://en.wikipedia.org/wiki/USA-151
+USA-154,10 November 2000,14,Delta II 7925-9.5[49],CCAFS SLC-17A,IIR,6,41,14,F1,Operational,http://en.wikipedia.org/wiki/USA-154
+USA-156,30 January 2001,13,Delta II 7925-9.5[50],CCAFS SLC-17A,IIR,7,54,18,E4,Operational,http://en.wikipedia.org/wiki/USA-156
+USA-166,29 January 2003,11,Delta II 7925-9.5[51],CCAFS SLC-17B,IIR,8,56,16,B1,Operational,http://en.wikipedia.org/wiki/USA-166
+USA-168,31 March 2003,11,Delta II 7925-9.5[52],CCAFS SLC-17A,IIR,9,45,21,D3,Operational,http://en.wikipedia.org/wiki/USA-168
+USA-175,21 December 2003,11,Delta II 7925-9.5[53],CCAFS SLC-17A,IIR,10,47,22,E2,Operational,http://en.wikipedia.org/wiki/USA-175
+USA-177,20 March 2004,10,Delta II 7925-9.5[54],CCAFS SLC-17B,IIR,11,59,19,C3,Operational,http://en.wikipedia.org/wiki/USA-177
+USA-178,23 June 2004,10,Delta II 7925-9.5[55],CCAFS SLC-17B,IIR,12,60,23,F4,Operational,http://en.wikipedia.org/wiki/USA-178
+USA-180,6 November 2004,10,Delta II 7925-9.5[56],CCAFS SLC-17B,IIR,13,61,2,D1,Operational,http://en.wikipedia.org/wiki/USA-180
+USA-183,26 September 2005,9,Delta II 7925-9.5[57],CCAFS SLC-17A,IIRM,1,53,17,C4,Operational,http://en.wikipedia.org/wiki/USA-183
+USA-190,25 September 2006,8,Delta II 7925-9.5[58],CCAFS SLC-17A,IIRM,2,52,31,A2,Operational,http://en.wikipedia.org/wiki/USA-190
+USA-192,17 November 2006,8,Delta II 7925-9.5[59],CCAFS SLC-17A,IIRM,3,58,12,B4,Operational,http://en.wikipedia.org/wiki/USA-192
+USA-196,"17 October 2007
+12:23",,Delta II 7925-9.5[60],CCAFS SLC-17A,IIRM,4,55,15,F2,Operational,
+USA-199,20 December 2007,7,Delta II 7925-9.5[61],CCAFS SLC-17A,IIRM,5,57,29,C1,Operational,http://en.wikipedia.org/wiki/USA-199
+USA-201,15 March 2008,6,Delta II 7925-9.5[62],CCAFS SLC-17A,IIRM,6,48,7,A4,Operational,http://en.wikipedia.org/wiki/USA-201
+USA-203,24 March 2009,2,Delta II 7925-9.5[63],CCAFS SLC-17A,IIRM,7,49,"01
+27
+30
+06
+NA",B6,Unhealthy,http://en.wikipedia.org/wiki/USA-203
+USA-206,17 August 2009,5,Delta II 7925-9.5,CCAFS SLC-17A,IIRM,8,50,5,E3,Operational,http://en.wikipedia.org/wiki/USA-206
+USA-213,28 May 2010,4,"Delta IV-M+(4,2)",CCAFS SLC-37B,IIF,1,62,25,B2,Operational,http://en.wikipedia.org/wiki/USA-213
+USA-232,16 July 2011,3,"Delta IV-M+(4,2)",CCAFS SLC-37B,IIF,2,63,1,D2,Operational,http://en.wikipedia.org/wiki/USA-232
+USA-239,4 October 2012,2,"Delta IV-M+(4,2)",CCAFS SLC-37B,IIF,3,65,24,A1,Operational,http://en.wikipedia.org/wiki/USA-239
+USA-242,15 May 2013,1,Atlas V 401,CCAFS SLC-41,IIF,4,66,27,C2,Operational,http://en.wikipedia.org/wiki/USA-242
+USA-248,21 February 2014,0,"Delta IV-M+(4,2)",CCAFS SLC-37B,IIF,5,64,30,A6,Operational,http://en.wikipedia.org/wiki/USA-248
+USA-251,17 May 2014,0,"Delta IV-M+(4,2)",CCAFS SLC-37B,IIF,6,67,6,D6,Operational,http://en.wikipedia.org/wiki/USA-251
+USA-256,2 August 2014,0,Atlas V 401,CCAFS SLC-41,IIF,7,68,9,F6,Undergoing testing,http://en.wikipedia.org/wiki/USA-256
